@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code\\Demo_SOF205-master (1)\\Demo_SOF205-master\\A_DAL\\A_DAL.csproj": {}
+    "D:\\TuanNC15\\SOF205\\A_DAL\\A_DAL.csproj": {}
   },
   "projects": {
-    "D:\\Code\\Demo_SOF205-master (1)\\Demo_SOF205-master\\A_DAL\\A_DAL.csproj": {
+    "D:\\TuanNC15\\SOF205\\A_DAL\\A_DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\Demo_SOF205-master (1)\\Demo_SOF205-master\\A_DAL\\A_DAL.csproj",
+        "projectUniqueName": "D:\\TuanNC15\\SOF205\\A_DAL\\A_DAL.csproj",
         "projectName": "A_DAL",
-        "projectPath": "D:\\Code\\Demo_SOF205-master (1)\\Demo_SOF205-master\\A_DAL\\A_DAL.csproj",
+        "projectPath": "D:\\TuanNC15\\SOF205\\A_DAL\\A_DAL.csproj",
         "packagesPath": "C:\\Users\\nctua\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\Demo_SOF205-master (1)\\Demo_SOF205-master\\A_DAL\\obj\\",
+        "outputPath": "D:\\TuanNC15\\SOF205\\A_DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nctua\\AppData\\Roaming\\NuGet\\NuGet.Config",

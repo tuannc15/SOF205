@@ -1952,11 +1952,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Code\\Demo_SOF205-master (1)\\Demo_SOF205-master\\C_PRL\\C_PRL.csproj",
+      "projectUniqueName": "D:\\TuanNC15\\SOF205\\C_PRL\\C_PRL.csproj",
       "projectName": "C_PRL",
-      "projectPath": "D:\\Code\\Demo_SOF205-master (1)\\Demo_SOF205-master\\C_PRL\\C_PRL.csproj",
+      "projectPath": "D:\\TuanNC15\\SOF205\\C_PRL\\C_PRL.csproj",
       "packagesPath": "C:\\Users\\nctua\\.nuget\\packages\\",
-      "outputPath": "D:\\Code\\Demo_SOF205-master (1)\\Demo_SOF205-master\\C_PRL\\obj\\",
+      "outputPath": "D:\\TuanNC15\\SOF205\\C_PRL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nctua\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1973,8 +1973,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "D:\\Code\\Demo_SOF205-master (1)\\Demo_SOF205-master\\B_BUS\\B_BUS.csproj": {
-              "projectPath": "D:\\Code\\Demo_SOF205-master (1)\\Demo_SOF205-master\\B_BUS\\B_BUS.csproj"
+            "D:\\TuanNC15\\SOF205\\B_BUS\\B_BUS.csproj": {
+              "projectPath": "D:\\TuanNC15\\SOF205\\B_BUS\\B_BUS.csproj"
             }
           }
         }

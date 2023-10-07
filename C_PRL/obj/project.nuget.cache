@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "reHL76dK0bg2ITNMKaTndfgE0Z4IWsr5boLE32xK59VcZJ6thO+ClvkV1tUKgdhLp+4EarxvFulFRXwkMYruLg==",
+  "dgSpecHash": "AMHOhrwUZqd6soRGHSyl/3+jRG51bmzvOtDmGZaSqbiTJJb3S1PlxoUes4zlfsJbz7fta4Hg0rIN53a8RDKRnA==",
   "success": true,
-  "projectFilePath": "D:\\Code\\Demo_SOF205-master (1)\\Demo_SOF205-master\\C_PRL\\C_PRL.csproj",
+  "projectFilePath": "D:\\TuanNC15\\SOF205\\C_PRL\\C_PRL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nctua\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\nctua\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

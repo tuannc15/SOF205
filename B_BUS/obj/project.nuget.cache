@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WXsoWYuTA97ZUV0lTYrs22j0AZcoi4JwvVlingXg0J0ZAYo2RiTwoDjDhRWctUVEpZkq5wPA1jWStvEJO9z1yg==",
+  "dgSpecHash": "4lr9WIqaDdj6zEM72vg5u9AB5RfM7z/KYi1jIcFho3MbcTSV7jXdsg9fUkMQxTqciX3iATn28A8cEyuMM9zisw==",
   "success": true,
-  "projectFilePath": "D:\\Code\\Demo_SOF205-master (1)\\Demo_SOF205-master\\B_BUS\\B_BUS.csproj",
+  "projectFilePath": "D:\\TuanNC15\\SOF205\\B_BUS\\B_BUS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nctua\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\nctua\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

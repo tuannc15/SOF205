@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bZEgmeYd/CekCSRQQxiKyxW8Ln8Arxx0wFjMCPGI6gfWVlZmk4fleDYBW5ATbZE4Rb1XPK2vbRMxQngV1AM9AA==",
+  "dgSpecHash": "7UP8Mqldc+R+lABSyQ+HO2FsB0pH0YdK13lj5xzU5PwhyTGMMNFKEzKFl72lgvHyk+bmcqp7HR0GbnqnpQxXyg==",
   "success": true,
-  "projectFilePath": "D:\\Code\\Demo_SOF205-master (1)\\Demo_SOF205-master\\A_DAL\\A_DAL.csproj",
+  "projectFilePath": "D:\\TuanNC15\\SOF205\\A_DAL\\A_DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nctua\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\nctua\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
