@@ -1,0 +1,14 @@
+D:\Code\Demo_SOF205-master (1)\Demo_SOF205-master\A_DAL\bin\Debug\net6.0\A_DAL.deps.json
+D:\Code\Demo_SOF205-master (1)\Demo_SOF205-master\A_DAL\bin\Debug\net6.0\A_DAL.runtimeconfig.json
+D:\Code\Demo_SOF205-master (1)\Demo_SOF205-master\A_DAL\bin\Debug\net6.0\A_DAL.dll
+D:\Code\Demo_SOF205-master (1)\Demo_SOF205-master\A_DAL\bin\Debug\net6.0\A_DAL.pdb
+D:\Code\Demo_SOF205-master (1)\Demo_SOF205-master\A_DAL\obj\Debug\net6.0\A_DAL.csproj.AssemblyReference.cache
+D:\Code\Demo_SOF205-master (1)\Demo_SOF205-master\A_DAL\obj\Debug\net6.0\A_DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Demo_SOF205-master (1)\Demo_SOF205-master\A_DAL\obj\Debug\net6.0\A_DAL.AssemblyInfoInputs.cache
+D:\Code\Demo_SOF205-master (1)\Demo_SOF205-master\A_DAL\obj\Debug\net6.0\A_DAL.AssemblyInfo.cs
+D:\Code\Demo_SOF205-master (1)\Demo_SOF205-master\A_DAL\obj\Debug\net6.0\A_DAL.csproj.CoreCompileInputs.cache
+D:\Code\Demo_SOF205-master (1)\Demo_SOF205-master\A_DAL\obj\Debug\net6.0\A_DAL.dll
+D:\Code\Demo_SOF205-master (1)\Demo_SOF205-master\A_DAL\obj\Debug\net6.0\refint\A_DAL.dll
+D:\Code\Demo_SOF205-master (1)\Demo_SOF205-master\A_DAL\obj\Debug\net6.0\A_DAL.pdb
+D:\Code\Demo_SOF205-master (1)\Demo_SOF205-master\A_DAL\obj\Debug\net6.0\A_DAL.genruntimeconfig.cache
+D:\Code\Demo_SOF205-master (1)\Demo_SOF205-master\A_DAL\obj\Debug\net6.0\ref\A_DAL.dll
